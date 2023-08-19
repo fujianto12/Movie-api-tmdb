@@ -65,7 +65,7 @@ import { RouterLink, RouterView } from "vue-router";
         <div class="navbar-top">
           <a href="/" class="logo-nav">
             <img
-              src="../components/images/film-reel.png"
+              src="./components/images/film-reel.png"
               alt=""
               width="66"
               height="66"

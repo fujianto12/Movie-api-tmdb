@@ -1,5 +1,5 @@
 <template>
-  <section class="top-rated" data-aos="fade-down">
+  <section class="top-rated">
     <div class="container">
       <div class="flex-wrapper">
         <p class="section-subtitle">Online Streaming</p>
