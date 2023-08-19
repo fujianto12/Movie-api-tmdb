@@ -80,7 +80,7 @@ import { RouterLink, RouterView } from "vue-router";
 
         <ul class="navbar-list">
           <li>
-            <a href="/" class="navbar-link">Home</a>
+            <RouterLink :to="'/'" class="navbar-link">HOME</RouterLink>
           </li>
 
           <li>
@@ -88,7 +88,7 @@ import { RouterLink, RouterView } from "vue-router";
           </li>
 
           <li>
-            <a href="/TvShow" class="navbar-link">TV Show</a>
+            <RouterLink :to="'/TvShow'" class="navbar-link">TV SHOW</RouterLink>
           </li>
         </ul>
 
